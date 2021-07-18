@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😄
 
 <!--
 **yeongjong310/yeongjong310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align:center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeongjong310&hide=stars&show_icons=true&theme=tokyonight">
 </div>
