@@ -23,6 +23,8 @@ Good day! I am Yeongjong Kim, a growing Front-end developer.
 
 I want to be a person who share new Insights with you.
 
+<br/>
+
 ### 📜 Experience
 1. <b>1st NKLCB</b>, front-end learning - Fast Campus, 2021.03.22 ~
 2. <b>4th WEST PLUS</b>, language training and tech internship - TF GROUP, Inc, 2021.01.03 ~ 2020-11-30
