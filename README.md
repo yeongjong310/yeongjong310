@@ -1,5 +1,5 @@
 <p></p>
-<img align="right" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=yeongjong310&hide=stars&show_icons=true&theme=tokyonight">
+<img width="450" align="right" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=yeongjong310&hide=stars&show_icons=true&theme=tokyonight">
 
 
 ### 😄 Hi there
