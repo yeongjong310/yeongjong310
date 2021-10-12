@@ -26,7 +26,7 @@ I want to be a person who share new Insights with you.
 <br/>
 
 ### 📜 Experience
-1. <b>1st NKLCB</b>, front-end learning - Fast Campus, 2021.03.22 ~
+1. <b>1st NKLCB</b>, front-end learning - Fast Campus, 2021.03.22 ~ 2021.10.15
 2. <b>4th WEST PLUS</b>, language training and tech internship - TF GROUP, Inc, 2021.01.03 ~ 2020-11-30
 3. <b>일학습병행제</b>, Django back-end internship - Insilicogen, Inc, 2018.07.25 ~ 2019-02-28
 
